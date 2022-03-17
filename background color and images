@@ -1,0 +1,19 @@
+
+p{
+ color:aliceblue;
+}
+/*body{background-image: url(images/css.png);
+    background-repeat: no-repeat;
+}*/
+body{
+    background: green url(images/css.png) no-repeat;
+}
+div{
+    color: chartreuse
+}
+#cssexample{
+    color: chocolate
+}
+h1,h2,p{
+    color: coral
+}
