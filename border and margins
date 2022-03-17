@@ -1,0 +1,14 @@
+/* this is a comment*/
+#div-one{
+    background-color: black;
+    color: #ffffff;
+    padding: 100px 100px 100px 0px;
+    border-style: solid;
+    border-width: 20px;
+    border-color: red;
+    margin: 200px;
+    
+}
+
+/* this is a
+           multiline comment*/
